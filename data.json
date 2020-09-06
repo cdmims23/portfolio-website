@@ -1,0 +1,140 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A web app that displays random quotes with a random color at intervals",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript"
+                            ],
+            "live_link": "https://cdmims23.github.io/random-quote-generator/",
+            "github_link": "https://github.com/cdmims23/random-quote-generator",
+            "image_urls": [
+                            "static/img/thumbnails/random-quote-1.png",
+                            "/static/img/random-quote-generator/random-quote-1.png", 
+                            "/static/img/random-quote-generator/random-quote-2.png",
+                            "/static/img/random-quote-generator/random-quote-3.png",
+                            "/static/img/random-quote-generator/random-quote-4.png"
+                          ]
+        },
+        {
+            "id": 1,
+            "project_name": "Interactive Form",
+            "description": "A interactive form with validation",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript"
+                            ],
+            "live_link": "https://cdmims23.github.io/interactive-form/",
+            "github_link": "https://github.com/cdmims23/interactive-form",
+            "image_urls": [
+                            "static/img/thumbnails/rsz_1interactive-form.png",
+                            "/static/img/interactive-form-photos/interactive-form.png", 
+                            "/static/img/interactive-form-photos/interactive-form-error.png",
+                            "/static/img/interactive-form-photos/interactive-form-errors.png"
+                          ]
+        },
+
+        {
+            "id": 2,
+            "project_name": "List Pagination",
+            "description": "An program that paginates a list of objects.",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript"
+                            ],
+            "live_link": "https://cdmims23.github.io/list-pagination/",
+            "github_link": "https://github.com/cdmims23/list-pagination",
+            "image_urls": [
+                            "static/img/thumbnails/list-pagination.png",
+                            "/static/img/list-pagination/list-pagination.png", 
+                            "/static/img/list-pagination/list-pagination-last.png",
+                            "/static/img/list-pagination/list-pagination-second.png"
+                          ]
+        },
+
+        {
+            "id": 3,
+            "project_name": "Phrase Hunter",
+            "description": "A game that allows a user five tries to guess the phrase.",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript"
+                            ],
+            "live_link": "https://cdmims23.github.io/phrase-hunter/",
+            "github_link": "https://github.com/cdmims23/game-show",
+            "image_urls": [
+                            "static/img/thumbnails/phrase-landing.png",
+                            "/static/img/phrase-hunter-photos/phrase-landing.png", 
+                            "/static/img/phrase-hunter-photos/phrase-game-play.png",
+                            "/static/img/phrase-hunter-photos/phrase-game.png",
+                            "/static/img/phrase-hunter-photos/phrase-lose.png",
+                            "/static/img/phrase-hunter-photos/phrase-win.png"
+                          ]
+        },
+
+        {
+            "id": 4,
+            "project_name": "Public API",
+            "description": "A program that uses an API to get employee progfiles and display them. A modal also appears with further information once an employee profile is clicked.",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript"
+                            ],
+            "live_link": "https://cdmims23.github.io/public-api/",
+            "github_link": "https://github.com/cdmims23/public-api",
+            "image_urls": [
+                            "static/img/thumbnails/directory-photo.png",
+                            "/static/img/public-api/directory-photo.png", 
+                            "/static/img/public-api/employee-photo.png"
+                          ]
+        },
+
+        {
+            "id": 5,
+            "project_name": "Conquer Clone",
+            "description": "A clone of a layout for a Chingu voyage.",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript"
+                            ],
+            "live_link": "https://ancient-shelf-82490.herokuapp.com/",
+            "github_link": "https://github.com/cdmims23/conquer-clone",
+            "image_urls": [
+                            "static/img/thumbnails/conquer-1.png", 
+                            "/static/img/conquer-clone/conquer-2.png",
+                            "/static/img/conquer-clone/conquer-3.png",
+                            "/static/img/conquer-clone/conquer-4.png",
+                            "/static/img/conquer-clone/conquer-5.png",
+                            "/static/img/conquer-clone/conquer-6.png"
+                          ]
+        },
+
+        {
+            "id": 6,
+            "project_name": "TickyBot",
+            "description": "A clone of the tickybot website for a Chingu voyage.",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript"
+                            ],
+            "live_link": "http://ticky-clone.herokuapp.com/",
+            "github_link": "https://github.com/cdmims23/v11-toucans-team-04",
+            "image_urls": [
+                            "static/img/thumbnails/tickybot-1.png",
+                            "/static/img/tickybot/tickybot-1.png", 
+                            "/static/img/tickybot/tickybot-2.png",
+                            "/static/img/tickybot/tickybot-3.png",
+                            "/static/img/tickybot/tickybot-4.png"
+                          ]
+        }
+    ]
+}
