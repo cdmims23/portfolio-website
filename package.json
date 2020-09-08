@@ -7,6 +7,9 @@
     "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "14.9.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cdmims23/portfolio-website.git"
