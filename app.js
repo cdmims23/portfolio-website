@@ -1,6 +1,7 @@
 const express = require('express');
-const e = require('express');
 const app = express();
+
+const port = process.env.PORT || 3000;
 
 const data = require('./data.json');
 
@@ -46,6 +47,6 @@ app.use((err, req, res, next) => {
     res.render('error');
 });
 
-app.listen(3000, () => {
-    console.log('Running on port 3000');
+app.listen(port, () => {
+    console.log(`Running on port ${port}`);
 });
