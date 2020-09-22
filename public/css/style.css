@@ -122,14 +122,15 @@ a:hover{
 
   .portfolio-index .cell{
     margin-bottom: 15px;
+    overflow: hidden;
   }
 
     .portfolio-index .cell h5{
       letter-spacing: 1px;
     }
-.portfolio-index .cell:hover {
-  transform: scale(1.2);
-  transition: transform 1.5s;
+.portfolio-index .cell .thumbnail:hover {
+  transform: scale(1.1);
+  transition: transform 1.25s;
 }
 
 .portfolio-meta{
