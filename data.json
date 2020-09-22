@@ -135,6 +135,28 @@
                             "/static/img/tickybot/tickybot-3.png",
                             "/static/img/tickybot/tickybot-4.png"
                           ]
+        },
+
+        {
+            "id": 7,
+            "project_name": "React Gallery",
+            "description": "A web app that displays a gallery photos. Three galleries are available by default and, more galleries can be fetched based on user query",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript",
+                                "React",
+                                "React Router",
+                                "Express"
+                            ],
+            "live_link": "https://cori-react-gallery.herokuapp.com/",
+            "github_link": "https://github.com/cdmims23/react-gallery",
+            "image_urls": [
+                            "static/img/react-gallery/react-gallery_bear.png",
+                            "/static/img/react-gallery/react-gallery_cat.png", 
+                            "/static/img/react-gallery/react-gallery_computer.png",
+                            "/static/img/react-gallery/react-gallery_dog.png"
+                          ]
         }
     ]
 }
