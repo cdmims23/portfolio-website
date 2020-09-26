@@ -152,7 +152,7 @@
             "live_link": "https://cori-react-gallery.herokuapp.com/",
             "github_link": "https://github.com/cdmims23/react-gallery",
             "image_urls": [
-                            "static/img/react-gallery/react-gallery_bear.png",
+                            "static/img/thumbnails/react-gallery_bear.png",
                             "/static/img/react-gallery/react-gallery_cat.png", 
                             "/static/img/react-gallery/react-gallery_computer.png",
                             "/static/img/react-gallery/react-gallery_dog.png"
