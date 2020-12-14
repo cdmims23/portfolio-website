@@ -157,6 +157,28 @@
                             "/static/img/react-gallery/react-gallery_computer.png",
                             "/static/img/react-gallery/react-gallery_dog.png"
                           ]
+        },
+
+        {
+            "id": 8,
+            "project_name": "Library Manager",
+            "description": "A web app that displays a list of books. The database can be queried to check if a book is available. Books can also be added to the database.",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript",
+                                "SQLite3",
+                                "Sequelize",
+                                "Express"
+                            ],
+            "live_link": "https://library-manager-cm.herokuapp.com/book",
+            "github_link": "https://github.com/cdmims23/library-manager",
+            "image_urls": [
+                            "static/img/thumbnails/library-manager.png",
+                            "/static/img/library-manager/library-manager_1.png", 
+                            "/static/img/library-manager/library-manager_2.png",
+                            "/static/img/library-manager/library-manager_3.png"
+                          ]
         }
     ]
 }
