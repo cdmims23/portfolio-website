@@ -4,7 +4,7 @@
   "description": "A website created to showcase my skills as a developer",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {

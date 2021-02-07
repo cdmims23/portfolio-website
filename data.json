@@ -179,6 +179,27 @@
                             "/static/img/library-manager/library-manager_2.png",
                             "/static/img/library-manager/library-manager_3.png"
                           ]
+        },
+        {
+            "id": 9,
+            "project_name": "REST API",
+            "description": "A REST API that returns a list of courses. An authenitcated user can create a new course, update an existing course, and delete an existing course. List of enndpoints available on Github.",
+            "technologies": [
+                                "HTML", 
+                                "CSS", 
+                                "JavaScript",
+                                "Postgres",
+                                "Sequelize",
+                                "Express"
+                            ],
+            "live_link": "https://cori-course-api.herokuapp.com/",
+            "github_link": "https://github.com/cdmims23/rest-api",
+            "image_urls": [
+                            "static/img/thumbnails/get-course-route.png",
+                            "/static/img/rest-api/get-user-route.png", 
+                            "/static/img/rest-api/post-course-route.png",
+                            "/static/img/rest-api/post-user-route.png"
+                          ]
         }
     ]
 }
